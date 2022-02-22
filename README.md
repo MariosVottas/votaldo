@@ -1,4 +1,4 @@
-👋 Hi, my name is Marios. 🇷
+👋 Hi, my name is Marios <br />
 📌 I am from Athens, Greece. 
 💻 Currently attending a Master's Degree in Data Science. 
 🔜 What to expect in this profile:  
