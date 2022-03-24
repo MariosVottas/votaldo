@@ -5,6 +5,5 @@
     - Personal projects targeting in improving data science skills including <br />
     - Python <br />
     - Machine Learning (Scikit-learn) <br />
-    - NLP <br />
     - Deep Learning (PyTorch, TensorFlow) <br />
    
