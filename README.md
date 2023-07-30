@@ -4,10 +4,9 @@
 🔫 Completed obligatory army service in Greece <br/>
 🔜 What to expect in this profile:  <br/>
 - Personal projects targeting in improving data science skills such as
--         Python
--     Machine Learning
-- Deep Learning with TensorFlow
-
-  - Work project that don't require privacy
-  - Projects from courses
+  - Python
+  - Machine Learning
+  - Deep Learning with TensorFlow
+- Work project that don't require privacy
+- Projects from courses
    
