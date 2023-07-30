@@ -1,8 +1,8 @@
 👋 Hi, my name is Marios <br />
 📌 I am from Athens, Greece <br />
 💻 Currently developing my Master's Thesis for MSc in Data Science <br/>
-🔫 Completed obligatory army service in Greece <br/>
-🔜 What to expect in this profile:  <br/>
+🔫 Completed obligatory army service  <br/>
+🔜 What to expect in this profile:  
 - Personal projects targeting in improving data science skills such as
   - Python
   - Machine Learning
