@@ -1,4 +1,4 @@
-![Marios](https://github.com/MariosVottas/MariosVottas/intro.png)
+![Marios](intro.png)
 
 👋 Hi, my name is Marios <br />
 📌 I am from Athens, Greece <br />
