@@ -1,1 +1,1 @@
-!()[intro2.png]
+![](intro2.png)
