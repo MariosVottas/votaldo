@@ -1,4 +1,4 @@
-https://github.com/MariosVottas/MariosVottas/intro.png
+[](https://github.com/MariosVottas/MariosVottas/intro.png)
 👋 Hi, my name is Marios <br />
 📌 I am from Athens, Greece <br />
 💻 Developing my Master's Thesis for MSc in Data Science in Drug-to-Drug Interaction Prediction Graphs <br/>
